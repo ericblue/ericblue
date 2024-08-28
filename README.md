@@ -16,16 +16,11 @@ Here are some ideas to get you started:
 -->
 Technologist, Entrepreneur and Creative
 
+- 👨‍💻 Want to learn more about my background and interesting projects I've worked on? Check out my portfolio at [https://about.ericblue.com](https://about.ericblue.com)
+
 - 🔭 I’m currently working on **multiple projects related to genAI, LLMs and knowledge management**
 
-- 🌱 I’m currently learning **Large Language Models, GenAI**
+- 💬 Ask me about **GenAI/LLMs**, **knowledge management, mind mapping, quantified self**
 
-- 👨‍💻 All of my projects are available at [https://eric-blue.com](https://eric-blue.com)
-
-- 💬 Ask me about **knowledge management, mind mapping, quantified self**
-
-- 📫 How to reach me **https://eric-blue.com/#about**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ericblue/](https://www.linkedin.com/in/ericblue/)
 
 - ⚡ Fun fact **I'm also a fitness geek and artist**
