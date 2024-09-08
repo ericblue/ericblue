@@ -22,7 +22,7 @@ Technologist, Entrepreneur and Creative
 
 - 💬 Ask me about **GenAI/LLMs**, **knowledge management, mind mapping, quantified self**
   
-- 📖 My writings and open source projects have been referenced in 25+ research papers, projects and publications.  For a curated list check out [[https://about.ericblue.com](https://github.com/ericblue/my-cited-works)]([https://about.ericblue.com](https://github.com/ericblue/my-cited-works))
+- 📖 My writings and open source projects have been referenced in 25+ research papers, projects and publications.  For a curated list check out [https://github.com/ericblue/my-cited-works](https://github.com/ericblue/my-cited-works)
 
 
 - ⚡ Fun fact **I'm also a fitness geek and artist**
