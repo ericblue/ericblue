@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Technologist, Entrepreneur and Creative
 
-- 👨‍💻 Want to learn more about my background and interesting projects I've worked on? Check out my portfolio at [https://about.ericblue.com](https://about.ericblue.com)
+- 👨‍💻 Want to learn more about my background and interesting projects I've worked on? Check out my resume & portfolio at [https://about.ericblue.com](https://about.ericblue.com)
 
 - 🔭 I’m currently working on **multiple projects related to genAI, LLMs and knowledge management**.  A showcase of my AI-focused projects the last few years is at [https://about.ericblue.com/ai-showcase/](https://about.ericblue.com/ai-showcase/)
 
